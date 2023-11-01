@@ -1,0 +1,16 @@
+SIMILARITES B/W STRUCT AND CLASS:
+            .Both structure and class are used to define our own datatypes.
+
+DIFFERENCES:
+            .Structs are of value types(everything in struct are represented by values).
+            .struct and struct values are allocated in stack memory.
+            .If you want construtor in struct,complusary you need define parameterized constructor only,no default constructor.
+            .struct can't have inheritance concept.
+            .In struct everything as public.
+
+
+            .class are reference type(run as a reference type order).
+            .In class all are stored in heap memory.
+            .In class we define various constructors.
+            .class can have inheritance concept.
+            .class have hide features(private and public).
